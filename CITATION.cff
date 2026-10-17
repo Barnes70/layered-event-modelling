@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this method, please cite the paper."
+type: article
+title: "Layered Event Modelling: Semantic Separation as a Precondition for Explicit Causal Analysis"
+version: "1.0"
+date-released: 2026-10-17
+doi: 10.5281/zenodo.23438101
+license: CC-BY-4.0
+repository-code: "https://github.com/Barnes70/layered-event-modelling"
+authors:
+  - family-names: Kreinz
+    given-names: Bernhard
+    orcid: "https://orcid.org/0009-0005-2148-9903"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23438100
+    description: Concept DOI (all versions)
+  - type: doi
+    value: 10.5281/zenodo.23438101
+    description: Version 1.0
+keywords:
+  - levels of abstraction
+  - causal modelling
+  - ontology
+  - operational risk
+  - compliance risk
+  - deontic logic
+  - bow-tie
+  - event layering

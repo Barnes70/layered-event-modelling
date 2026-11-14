@@ -15,6 +15,7 @@ Where one predicate (*integrity*, *failure*, *compromise*, *availability*) is ap
 ## Related
 
 - **Formalisation:** [Barnes70/lem-lean](https://github.com/Barnes70/lem-lean) — LEM in Lean 4, with machine-checked theorems.
+- **Paper using the vocabulary:** [Typed Crossings](https://doi.org/10.5281/zenodo.24219768) — casts, refinement proofs and chain-of-thought checks as typed crossings; source at [Barnes70/typed-crossings](https://github.com/Barnes70/typed-crossings).
 - **Worked instantiation:** [Top Level Cyber Threat Clusters (TLCTC)](https://github.com/Barnes70/TLCTC) v2.7 — [core paper](https://doi.org/10.5281/zenodo.23437984), web edition of this paper at [tlctc.net](https://www.tlctc.net/tlctc-layered-event-modelling.html).
 - **Essays:** [Invisible Coercions and Untyped Refinement](https://www.barnes.ch/BP-Invisible-Coercions.html), [Where Does a Model Reason?](https://www.barnes.ch/BP-Where-Does-A-Model-Reason.html) — [barnes.ch](https://www.barnes.ch).
 
